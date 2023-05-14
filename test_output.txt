@@ -1,0 +1,48 @@
+----------------------UnitTestingManagementAndAccount----------------------------
+0
+Management
+Manager
+Password Verification working
+Management
+Checking Application Array: Found
+updateRestaurantStatus : Working
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingTime---------------------------------
+Correct initilisation
+LessthanequalWorking
+update working fine
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingItems-----------------------------
+Name Verified
+Price Verified
+item type Verified
+Restaurant Verified
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingMenu--------------------------------
+get price functionality working
+Add Item functionality working properly
+Remove fuctionality working properly
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingOrders-------------------------------
+order allotment checked
+Get order details working properly both in restaurant and order
+get Reciept working properly
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingRestaurants--------------------------
+adding Item and Adding Station working properly
+agent allotment working properly
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingAgents-------------------------------
+order allotment working properly
+restaurant allotment working properly
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingStations-----------------------------
+[ 15, 22 ]
+Add Station and get Station working
+Add Item and get Item working
+-------------------------------------------------------------------------------
+-------------------------------UnitTestingTrains-----------------------------
+adding Station and retuen functions working properly
+train number allotement correct
+train name allotement correct
+-------------------------------------------------------------------------------
