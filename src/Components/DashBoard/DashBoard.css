@@ -1,0 +1,12 @@
+.site-layout-sub-header-background ul{
+    list-style-type: none;
+    float: right;
+}
+
+site-layout-sub-header-background ul li{
+    float: right;
+}
+
+.site-layout-background{
+    padding: 2rem 2vw;
+}
