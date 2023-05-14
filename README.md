@@ -60,9 +60,8 @@ node-js UnitTest.ts
 
 The team:
 
+* Akshat Vijay
 * Abhishek Gandhi
-* Sajal Chhamunya
-* Shashvat Gupta
 
 Mentors:
 
